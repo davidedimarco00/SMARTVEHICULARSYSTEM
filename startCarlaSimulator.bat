@@ -1,1 +1,1 @@
-start WindowsNoEditor\CarlaUE4.exe -quality-level={Low, Epic}
+start C:\Users\david\Downloads\CARLA_0.9.14\WindowsNoEditor\CarlaUE4.exe -quality-level={Low, Epic}
